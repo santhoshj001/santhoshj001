@@ -1,6 +1,6 @@
 - 👋 Hi, I’m santhosh
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Android and Python
+- 🌱 I’m currently learning Android App dev and Python
 - 💞️ I’m looking to collaborate on  Android apps 
 - 📫 you can reach me in LinkedIn
 
