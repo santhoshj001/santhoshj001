@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santhosh J</h1>
+<h1 align="center">Hi 👋, I'm Santhosh </h1>
 <h3 align="center">A passionate Android App developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/santhosh_sj" target="blank"><img src="https://img.shields.io/twitter/follow/santhosh_sj?logo=twitter&style=for-the-badge" alt="santhosh_sj" /></a> </p>
